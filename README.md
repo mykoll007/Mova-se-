@@ -2,7 +2,7 @@
 
 Bem-vindo ao **Mova-se**, um projeto responsivo e funcional que combina design atrativo com funcionalidades práticas para oferecer uma experiência web completa.
 
-![Capa do Projeto](imagem/capa.png)
+![Capa do Projeto](imagem/capa.pnggit add imagem/capa.png)
 ---
 
 ## **Descrição**
