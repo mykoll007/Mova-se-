@@ -34,6 +34,7 @@ O projeto apresenta páginas HTML modernas e **totalmente responsivas**, adaptan
   1. **Enviados para o e-mail configurado** através do **PHPMailer**.
   2. **Armazenados no banco de dados MySQL** para referência futura.
 
+![Capa do Contato](imagem/contato.png)
 ---
 
 ## **Diferenciais**
