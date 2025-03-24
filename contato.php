@@ -46,9 +46,9 @@
 
                     <?php
                     require_once 'env.php';
-                    require 'PHPmailer/PHPMailer.php';
-                    require 'PHPmailer/SMTP.php';
-                    require 'PHPmailer/Exception.php';
+                    require 'PHPMailer/PHPMailer.php';
+                    require 'PHPMailer/SMTP.php';
+                    require 'PHPMailer/Exception.php';
 
                     use PHPMailer\PHPMailer\PHPMailer;
                     use PHPMailer\PHPMailer\Exception;
