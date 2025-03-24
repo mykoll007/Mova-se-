@@ -157,6 +157,9 @@
         <!-- Rodapé existente -->
     </footer>
 
+ <!-- Projeto desenvolvido por Mykoll Daniel -->
+ <!-- Link do repositório: https://github.com/mykoll007/Mova-se- -->
+
     <script src="js/interacoes.js"></script>
 </body>
 
