@@ -1,10 +1,11 @@
 <?php    
 
+require_once 'env.php';
 
 $hostname = getenv('BD_HOSTNAME');
 $username = getenv('BD_USERNAME');
 $password = getenv('BD_PASSWORD');
-$bd = getenv('BD_BD')
+$bd = getenv('BD_BD');
 
 
 //Dados para a conexão 
